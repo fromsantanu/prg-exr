@@ -1,2 +1,3 @@
-# prg-exr
-Programming Exercises (Python, Java, QBasic)
+# Programming Exercises (Python, Java, QBasic)
+
+## Table of Contents
