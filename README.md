@@ -1,9 +1,9 @@
 # Programming Exercises (Python, Java, QBasic)
 
 ## Table of Contents
-- [Topic 01](https://github.com/fromsantanu/prg-exr/blob/main/pages/p01.md)
-- [Topic 02](https://github.com/fromsantanu/prg-exr/blob/main/pages/p02.md)
-- [Topic 03](https://github.com/fromsantanu/prg-exr/blob/main/pages/p03.md)
+- [Level 1 - Decision Making - Programming Exercises 1](https://github.com/fromsantanu/prg-exr/blob/main/pages/p01.md)
+- [Level 1 - Decision Making - Programming Exercises 2](https://github.com/fromsantanu/prg-exr/blob/main/pages/p02.md)
+- [Level 2- Decision Making - Programming Exercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p03.md)
 - [Topic 04](https://github.com/fromsantanu/prg-exr/blob/main/pages/p04.md)
 - [Topic 05](https://github.com/fromsantanu/prg-exr/blob/main/pages/p05.md)
 - [Topic 06](https://github.com/fromsantanu/prg-exr/blob/main/pages/p06.md)
