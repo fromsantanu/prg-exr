@@ -7,6 +7,7 @@
 - [Sum of Series - Programming Exercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p04.md)
 - [Finding Factors of a Number - Programming Exercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p05.md)
 - [Separating digits of a number - Programming Problems](https://github.com/fromsantanu/prg-exr/blob/main/pages/p06.md)
+- [Problems of Patterns - Programming Problems](https://github.com/fromsantanu/prg-exr/blob/main/pages/p06-1.md)
 - [Decision-making or Iteration using Methods - Programming Excercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p07.md)
 - [One-Dimensional Array - Programming exercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p08.md)
 - [Two-Dimensional Array - Programming Excercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p09.md)
