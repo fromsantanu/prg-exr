@@ -11,7 +11,7 @@
 - [One-Dimensional Array - Programming exercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p08.md)
 - [Two-Dimensional Array - Programming Excercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p09.md)
 - [String Handling - Programming Excercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p10.md)
-- [String Handling Special - Programming Excercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p10-1.md)
+- [String Handling Special 01 - Programming Excercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p10-1.md)
 - [Class Building - Exercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p11.md)
 - [Method and Constructor Overloading - Exercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p12.md)
 - [Java Encapsulation Problems - Programming Exercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p13.md)
