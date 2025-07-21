@@ -1,7 +1,7 @@
 # Programming Exercises (Python, C, C++, Java, QBasic)
 
 ## Table of Contents
-- [Level 0 - Fundamental Logic - Programming Exercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p00.md)
+- [Level 0 - Fundamental Programming Logic - Programming Exercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p00.md)
 - [Level 1 - Decision Making - Programming Exercises 1](https://github.com/fromsantanu/prg-exr/blob/main/pages/p01.md)
 - [Level 1 - Decision Making - Programming Exercises 2](https://github.com/fromsantanu/prg-exr/blob/main/pages/p02.md)
 - [Level 2- Decision Making - Programming Exercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p03.md)
