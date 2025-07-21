@@ -1,4 +1,4 @@
-# Programming Exercises (Python, Java, QBasic)
+# Programming Exercises (Python, C, C++, Java, QBasic)
 
 ## Table of Contents
 - [Level 0 - Fundamental Logic - Programming Exercises](https://github.com/fromsantanu/prg-exr/blob/main/pages/p00.md)
