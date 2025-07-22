@@ -25,6 +25,7 @@
 - [Flow of Control - Programming Assignments](https://github.com/fromsantanu/prg-exr/blob/main/XI-XII/p01.md)
 - [Classes in Java - Programming Assignments](https://github.com/fromsantanu/prg-exr/blob/main/XI-XII/p02.md)
 - [Functions(Methods)  - Programming Assignments](https://github.com/fromsantanu/prg-exr/blob/main/XI-XII/p03.md)
+- [Exception Handling  - Programming Assignments](https://github.com/fromsantanu/prg-exr/blob/main/XI-XII/p04.md)
 
 
 
